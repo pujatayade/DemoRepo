@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17585" started-at="2019-11-20T09:16:49Z" finished-at="2019-11-20T09:17:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17585" started-at="2019-11-20T09:16:49Z" finished-at="2019-11-20T09:17:07Z">
+      <class name="com.crm.qa.testcases.Homepagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.Homepagetest@1e88b3c]" name="setup" is-config="true" duration-ms="4815" started-at="2019-11-20T09:16:55Z" finished-at="2019-11-20T09:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titlepage()[pri:1, instance:com.crm.qa.testcases.Homepagetest@1e88b3c]" name="titlepage" duration-ms="11" started-at="2019-11-20T09:17:00Z" finished-at="2019-11-20T09:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlepage -->
+        <test-method status="PASS" signature="teerdown()[pri:0, instance:com.crm.qa.testcases.Homepagetest@1e88b3c]" name="teerdown" is-config="true" duration-ms="692" started-at="2019-11-20T09:17:00Z" finished-at="2019-11-20T09:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teerdown -->
+      </class> <!-- com.crm.qa.testcases.Homepagetest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@77caeb3e]" name="setup" is-config="true" duration-ms="5198" started-at="2019-11-20T09:16:49Z" finished-at="2019-11-20T09:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@77caeb3e]" name="loginTest" duration-ms="23" started-at="2019-11-20T09:16:54Z" finished-at="2019-11-20T09:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teerdown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@77caeb3e]" name="teerdown" is-config="true" duration-ms="718" started-at="2019-11-20T09:16:55Z" finished-at="2019-11-20T09:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teerdown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+      <class name="com.crm.qa.testcases.Userpagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.Userpagetest@42d80b78]" name="setup" is-config="true" duration-ms="5308" started-at="2019-11-20T09:17:01Z" finished-at="2019-11-20T09:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="User_list()[pri:1, instance:com.crm.qa.testcases.Userpagetest@42d80b78]" name="User_list" duration-ms="71" started-at="2019-11-20T09:17:06Z" finished-at="2019-11-20T09:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_list -->
+        <test-method status="PASS" signature="teerdown()[pri:0, instance:com.crm.qa.testcases.Userpagetest@42d80b78]" name="teerdown" is-config="true" duration-ms="702" started-at="2019-11-20T09:17:06Z" finished-at="2019-11-20T09:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teerdown -->
+      </class> <!-- com.crm.qa.testcases.Userpagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
